@@ -24,6 +24,11 @@ npm run test
 ```
 npm run lint
 ```
+### For Firebase 
+```
+make copy of firebasekeys-example.js and rename it to firebasekeys.js
+add appropriate keys provided from firebase console
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
